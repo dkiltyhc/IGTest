@@ -3,7 +3,6 @@
 <ImplementationGuide xmlns="http://hl7.org/fhir">
   <id value="test-ig"/>
   <url value="http://hl7.org/fhir/test/ImplementationGuide/test-ig"/>
-  <name value="Test Implementation Guide"/>
   <package>
     <name value="base"/>
     <resource>

@@ -5,7 +5,6 @@
  <title value="Test Patient"/>
  <status value="draft"/>
  <experimental value="true"/>
- <publisher value="FHIR Project"/>
  <date value="2016-06-21T17:44:00+10:00"/>
  <description value="Test Profile to test publishing"/>
  <fhirVersion value="1.4.0"/>

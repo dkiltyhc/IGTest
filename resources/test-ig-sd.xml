@@ -3,7 +3,6 @@
  <url value="http://hl7.org/fhir/test/StructureDefinition/test-ig-sd"/>
  <name value="Test Profile"/>
  <title value="Test Patient"/>
- <status value="draft"/>
  <date value="2016-06-21T17:44:00+10:00"/>
  <description value="Test Profile to test publishing"/>
  <fhirVersion value="1.4.0"/>

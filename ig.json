@@ -75,18 +75,6 @@
 		},
 		"ValueSet/test-ig-vs": {
 			"base": "valuesets.html#test-ig-vs"
-		},
-		"ValueSet/test-ig-vsint": {
-			"base": "valuesets.html#test-ig-vsint"
-		},
-		"ValueSet/test-ig-vsext": {
-			"base": "valuesets.html#test-ig-vsext"
-		},
-		"ValueSet/test-ig-bnd1": {
-			"base": "valuesets.html#test-ig-bnd1"
-		},
-		"ValueSet/test-ig-bnd2": {
-			"base": "valuesets.html#test-ig-bnd2"
 		}
 	}
 }

@@ -6,7 +6,6 @@
   <name value="Test Implementation Guide"/>
   <status value="draft"/>
   <experimental value="true"/>
-  <publisher value="FHIR Project"/>
   <package>
     <name value="base"/>
 

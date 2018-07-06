@@ -5,7 +5,6 @@
   <url value="http://hl7.org/fhir/test/ImplementationGuide/test-ig"/>
   <name value="Test Implementation Guide"/>
   <status value="draft"/>
-  <experimental value="true"/>
   <package>
     <name value="base"/>
 

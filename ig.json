@@ -69,12 +69,7 @@
 		"StructureDefinition/test-ig-sd": {
 			"defns": "profile-sd.html#definitions",
 			"base": "profile-sd.html"
-		},
-		"CodeSystem/test-ig-cs": {
-			"base": "codesystems.html#test-ig-cs"
-		},
-		"ValueSet/test-ig-vs": {
-			"base": "valuesets.html#test-ig-vs"
 		}
+	
 	}
 }

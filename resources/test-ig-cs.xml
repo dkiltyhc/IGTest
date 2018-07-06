@@ -11,7 +11,6 @@
   <version value="0.1"/>
   <name value="Test IG Code System"/>
   <status value="draft"/>
-  <experimental value="true"/>
   <publisher value="HL7 International"/>
   <contact>
     <name value="FHIR project team"/>

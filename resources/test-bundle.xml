@@ -9,7 +9,6 @@
         <version value="0.1"/>
         <name value="Test IG Value Set (Bundle 1)"/>
         <status value="draft"/>
-        <experimental value="true"/>
         <publisher value="HL7 International"/>
         <contact>
           <name value="FHIR project team"/>

@@ -4,10 +4,8 @@
   <id value="test-ig"/>
   <url value="http://hl7.org/fhir/test/ImplementationGuide/test-ig"/>
   <name value="Test Implementation Guide"/>
-  <status value="draft"/>
   <package>
     <name value="base"/>
-
     <resource>
       <example value="false"/>
       <sourceReference>
